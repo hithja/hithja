@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @foximaychik
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, c#..
+- 🔵 My blog https://foximaychik.github.io
