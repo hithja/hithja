@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @foximaychik
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 🔵 My blog https://foximaychik.github.io
+- 🌱 I’m currently learning Java and Processing 
+- 🔵 My projects — Ice Engine 
