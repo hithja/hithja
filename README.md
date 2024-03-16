@@ -7,4 +7,4 @@ And it's my GitHub bio!
 
 ## My contacts
 
-Nothing yet!
+Discord: @foximay
