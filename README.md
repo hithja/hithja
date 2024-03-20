@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @foximaychik
+Q# 👋 Hi, I’m @foximaychik
 And it's my GitHub bio!
 
 - 👀 I’m interested in math and physics
-- 🔮 My first C++ project - Trader (on beta test)
+- 🔮 The best of my projects is 
 - 🌱 I’m currently learning Java, C++ and Processing
 
 ## My contacts
