@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foximaychik&layout=compact)](https://github.com/foximaychik/github-readme-stats)
 
-## Some joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ## My contacts
 - Discord Account: @foximay
 - Discord Server: https://discord.gg/5gMuzgAh9E
