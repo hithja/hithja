@@ -4,8 +4,7 @@
 
 - 👀 I’m interested in math and physics
 - 🔮 The best of my projects is [Perlin Noise Generator On Processing](https://github.com/foximaychik/noise_generator) 
-- 🌱 I’m currently learning Java and Processing
-- 📤 My favourite Java library - LWJGL
+- 🌱 I’m currently learning JavaScript
 
 <br>
 
