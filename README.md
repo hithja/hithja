@@ -9,6 +9,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foximaychik&layout=compact)](https://github.com/foximaychik/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js, processing)](https://skillicons.dev)
 
 ## My contacts
 - Discord Account: @foximay
