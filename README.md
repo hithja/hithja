@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @neon68</h1>
+<h1 align="center">👋 Hi, I’m @neon68dev</h1>
 <h3 align="center">And it's my GitHub bio!</h3>
 <br>
 
