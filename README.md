@@ -13,5 +13,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,godot,processing)](https://skillicons.dev)
 
 ## My contacts
-- Discord Account: @foximay
+- Discord Account: @neon68
 - Discord Server: https://discord.gg/5gMuzgAh9E
