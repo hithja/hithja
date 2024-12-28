@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m @hithja</h1>
 <h3 align="center">And it's my GitHub bio!</h3>
-<br>
 
-- 👀 I’m interested in math and physics
-- 🌱 I’m currently learning JavaScript
+### My favorite projects:
+* [ASCII Encoder](https://github.com/hithja/ASCII-encoder)
+* [JS Telegram Bot](https://github.com/hithja/js-tg-bot)
 
 <br>
 
