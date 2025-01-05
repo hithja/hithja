@@ -7,7 +7,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon68dev&layout=compact)](https://github.com/neon68dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon68dev&layout=compact)](https://github.com/hithja/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,godot,processing)](https://skillicons.dev)
 
