@@ -2,8 +2,7 @@
 <h3 align="center">And it's my GitHub bio!</h3>
 
 ### My favorite projects:
-* [jsFetch](https://github.com/hithja/jsFetch)
-* [ASCII Encoder](https://github.com/hithja/ASCII-encoder)
+* [PiCH](https://github.com/hithja/pich)
 * [JS Telegram Bot](https://github.com/hithja/js-tg-bot)
 
 <br>
