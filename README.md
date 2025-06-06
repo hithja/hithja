@@ -13,7 +13,7 @@
 <hr>
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,godot,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,fedora,python,figma,linux,react)](https://skillicons.dev)
 
 <hr>
 
