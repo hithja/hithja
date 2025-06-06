@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @hithja</h1>
 <h3 align="center">And it's my GitHub bio!</h3>
 
-### [JOIN TO MY DISCORD SERVER!](https://discord.gg/RTz3qVY9hf)
+### [~JOIN TO MY DISCORD SERVER!~](https://discord.gg/RTz3qVY9hf)
 
 <hr>
 
