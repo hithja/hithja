@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hithja
 - Making tools and games since 2020.
-- Favourite language - Python.
+- Favourite languages - Python, C++ and JS.
 - Main IDE - VSCode.
 - Main OS - Fedora 42.
 ## My favorite projects:
@@ -10,7 +10,7 @@
 * [NXP Package Manager](https://github.com/hithja/nxp) and [it's repo](https://github.com/hithja/nxp-repo)
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,python,figma,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vscode,python,figma,linux,react,cpp)](https://skillicons.dev)
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hithja&layout=compact)](https://github.com/hithja/github-readme-stats)
