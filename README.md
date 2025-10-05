@@ -5,8 +5,6 @@
 - Main OS - Fedora 42.
 ## My favorite projects:
 * [Wordle on JS](https://github.com/hithja/wordleJS)
-* [Char Counter](https://github.com/hithja/charCount)
-* [JS Telegram Bot](https://github.com/hithja/js-tg-bot)
 * [NXP Package Manager](https://github.com/hithja/nxp) and [it's repo](https://github.com/hithja/nxp-repo)
 
 ## Skills:
