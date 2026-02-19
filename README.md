@@ -4,6 +4,7 @@
 - Main IDE - VSCode.
 - Main OS - Fedora 43.
 ## My favorite projects:
+* [Fezashiru](https://github.com/hithja/fezashiru)
 * [Wordle on JS](https://github.com/hithja/wordleJS)
 
 
