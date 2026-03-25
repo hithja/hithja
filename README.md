@@ -7,7 +7,11 @@
 * [Fezashiru](https://github.com/hithja/fezashiru)
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,arduino,js,figma,linux,asm&perline=3)](https://skillicons.dev)
+- C++
+- Python
+- Bash
+- Arduino
+- JS
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hithja&layout=compact)](https://github.com/hithja/github-readme-stats)
